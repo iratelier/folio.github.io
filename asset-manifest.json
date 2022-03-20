@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/folio.github.io/static/css/main.f77d7a38.chunk.css",
+    "main.js": "/folio.github.io/static/js/main.4aa331de.chunk.js",
+    "main.js.map": "/folio.github.io/static/js/main.4aa331de.chunk.js.map",
+    "runtime-main.js": "/folio.github.io/static/js/runtime-main.235dcccb.js",
+    "runtime-main.js.map": "/folio.github.io/static/js/runtime-main.235dcccb.js.map",
+    "static/js/2.9a2180c5.chunk.js": "/folio.github.io/static/js/2.9a2180c5.chunk.js",
+    "static/js/2.9a2180c5.chunk.js.map": "/folio.github.io/static/js/2.9a2180c5.chunk.js.map",
+    "index.html": "/folio.github.io/index.html",
+    "precache-manifest.b86eddf6e3a145ba5e92b612b7fb840c.js": "/folio.github.io/precache-manifest.b86eddf6e3a145ba5e92b612b7fb840c.js",
+    "service-worker.js": "/folio.github.io/service-worker.js",
+    "static/css/main.f77d7a38.chunk.css.map": "/folio.github.io/static/css/main.f77d7a38.chunk.css.map",
+    "static/js/2.9a2180c5.chunk.js.LICENSE.txt": "/folio.github.io/static/js/2.9a2180c5.chunk.js.LICENSE.txt",
+    "static/media/sad-icon.png": "/folio.github.io/static/media/sad-icon.b88924d5.png",
+    "static/media/your photo.png": "/folio.github.io/static/media/your photo.b9d7d448.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.235dcccb.js",
+    "static/js/2.9a2180c5.chunk.js",
+    "static/css/main.f77d7a38.chunk.css",
+    "static/js/main.4aa331de.chunk.js"
+  ]
+}
